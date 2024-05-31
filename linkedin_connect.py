@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
 # LinkedIn credentials
-username = 'arkpandey222@gmail.com'
-password = 'arknova1999'
+username = ''
+password = ''
 
 # Custom message for connection requests
 custom_message = "Hi, I would like to connect with you to discuss potential collaborations."
